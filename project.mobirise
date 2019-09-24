@@ -38,7 +38,7 @@
     "versionPublish": "4.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/c3-128x128-7.png",
+    "favicon": "@PROJECT_PATH@/assets/images/c3-128x128-8.png",
     "noImageResize": "",
     "siteFonts": [],
     "siteUrl": "",
